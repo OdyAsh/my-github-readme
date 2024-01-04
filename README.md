@@ -7,14 +7,10 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=odyash&label=Profile%20views&color=0047AB&style=plastic?" alt="OdyAsh" height=22px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<img src="https://badge.techforpalestine.org/default" alt="https://techforpalestine.org/learn-more" height=22px/>
-
+	<img src="https://komarev.com/ghpvc/?username=odyash&label=Profile%20views&color=0047AB&style=plastic?" alt="OdyAsh" height=22px />
+	<a href="https://github.com/TechForPalestine" target="_blank">
+		<img src="https://badge.techforpalestine.org/default" alt="https://techforpalestine.org/learn-more" height=22px/>
+	</a>
 </p>
 
 	
@@ -29,6 +25,7 @@
 - :computer: Former competitive programmer at `Codeforces`, `ECPC`.
 - :student: Currently learning `Data Engineering` and `Mathematics`.
 - :nerd_face: Always uploading my second brain @[OdyAsh-Notes](https://github.com/OdyAsh/OdyAsh-Notes).
+- :detective: Expert at `forking` (not `stealing` :point_up:) code, like [this README](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/7oSkaaa.md) made by [7oSkaaa](https://github.com/7oSkaaa) and found from [this repo](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) :].
 - :boom: Random recommendation: [SimpleTex](https://simpletex.cn/): Img2Lates for math formulas.
 <br>
 
