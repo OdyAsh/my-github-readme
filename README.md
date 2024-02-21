@@ -16,7 +16,11 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<!-- <picture>  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px> </picture> -->
+
+<a href="https://app.daily.dev/odyash"> 
+  <img align="right" src="https://api.daily.dev/devcards/v2/tfeDhWycXJncf8KAWemwU.png?type=default&r=saw" width="300" alt="Ashraf Haress's Dev Card"/> 
+</a>
 
 <br><br>
 
@@ -28,6 +32,67 @@
 - :detective: Expert at `forking` (not `stealing` :point_up:) code, like [this README](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/7oSkaaa.md) made by [7oSkaaa](https://github.com/7oSkaaa) and found from [this repo](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) :].
 - :boom: Random recommendation: [SimpleTex](https://simpletex.cn/): Img2Lates for math formulas.
 <br>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="OdyAsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=odyash&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odyash&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="odyash" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+	
+[![OdyAsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=odyash&theme=github)](https://github.com/odyash/github-readme-activity-graph)
+
+ 
+</details>
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odyash&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="odyash" /></a> </p>
+
+[![@7OdyAsh's Holopin board](https://holopin.io/api/user/board?user=odyash)](https://holopin.io/@odyash)
+	
+</details>
+	
+<details><summary><h3> :open_file_folder: Some Repos 🙌 </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/OdyAsh/OdyAsh-Notes">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=odyash&repo=OdyAsh-Notes&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+	<a href="https://github.com/OdyAsh/mp3quran_scraper_and_tagEditor">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=odyash&repo=mp3quran_scraper_and_tagEditor&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  </p>
+</div>
+</details>
+
+</br></br>
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
@@ -131,74 +196,21 @@
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=اللهمَّ+آتِنا+في+الدنيا+حسنةً+وفي+الآخرةِ+حسنةً+،+و+قِنا+عَذَابَ+النارِ&author=سيّدُنا+مُحَمَّد+ﷺ">
-    <!-- &quoteCategory=programming -->
-</p>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="OdyAsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=odyash&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odyash&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="odyash" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![OdyAsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=odyash&theme=github)](https://github.com/odyash/github-readme-activity-graph)
-
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odyash&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="odyash" /></a> </p>
-
-[![@7OdyAsh's Holopin board](https://holopin.io/api/user/board?user=odyash)](https://holopin.io/@odyash)
-	
-</details>
-	
-<details><summary><h3> :open_file_folder: Some Repos 🙌 </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/OdyAsh/OdyAsh-Notes">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=odyash&repo=OdyAsh-Notes&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-	<a href="https://github.com/OdyAsh/mp3quran_scraper_and_tagEditor">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=odyash&repo=mp3quran_scraper_and_tagEditor&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  </p>
-</div>
-</details>
-
-</br></br>
-	
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+
+---
+
+## ✍️ Quotes
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=اللهمَّ+آتِنا+في+الدنيا+حسنةً+وفي+الآخرةِ+حسنةً+،+و+قِنا+عَذَابَ+النارِ&author=سيّدُنا+مُحَمَّد+ﷺ">
+    <!-- &quoteCategory=programming -->
+</p>
+
+<!-- GitHub Stats section was previously here (I modified it to be near the start :] !!! -->
+ 
+
