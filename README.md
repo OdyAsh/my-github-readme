@@ -30,7 +30,17 @@
 - :student: Currently learning `Data Engineering` and `Mathematics`.
 - :nerd_face: Always uploading my second brain @[OdyAsh-Notes](https://github.com/OdyAsh/OdyAsh-Notes).
 - :detective: Expert at `forking` (not `stealing` :point_up:) code, like [this README](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/7oSkaaa.md) made by [7oSkaaa](https://github.com/7oSkaaa) and found from [this repo](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) :].
-- :boom: Random recommendation: [SimpleTex](https://simpletex.cn/): Img2Lates for math formulas.
+- :wrench: Randomly recommended tools:
+  - [SimpleTex](https://simpletex.cn/): Img2Lates for math formulas.
+- :bookmark_tabs: Randomly recommended resources:
+  - FastAPI's documentation: I highly recommend checking their tutorials; they are truly top-notch! 🔝💥
+    - Specifically, the first 4 docs (Python Types Intro, ..., Virtual Environments)
+  - [Xebia's blogs](https://xebia.com/blog/): The authors @[Xebia](https://xebia.com/about-us/) provide a very well-structured blogs/tutorials (IMO).
+  - [pythonforthelab's blogs](https://pythonforthelab.com/blog/): Mr. [Aquiles Carattino](https://www.aquiles.me/) provides very well-structured blogs/tutorials (IMO). What helped me the most are:
+    - [Complete Guide to Imports in Python: Absolute, Relative, and More](https://pythonforthelab.com/blog/index2#:~:text=Complete%20Guide%20to%20Imports%20in%20Python%3A%20Absolute%2C%20Relative%2C%20and%20More)
+      - You can check his other Python topics [here](https://pythonforthelab.com/blog/index2).
+
+
 <br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
