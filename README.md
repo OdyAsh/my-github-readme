@@ -36,7 +36,7 @@
   - FastAPI's documentation: I highly recommend checking their tutorials; they are truly top-notch! 🔝💥
     - Specifically, the first 4 docs (Python Types Intro, ..., Virtual Environments)
   - [Xebia's blogs](https://xebia.com/blog/): The authors @[Xebia](https://xebia.com/about-us/) provide a very well-structured blogs/tutorials (IMO).
-  - [pythonforthelab's blogs](https://pythonforthelab.com/blog/): Mr. [Aquiles Carattino](https://www.aquiles.me/) provides very well-structured blogs/tutorials (IMO). What helped me the most are:
+  - [pythonforthelab's blogs](https://pythonforthelab.com/blog/): [Aquiles Carattino](https://www.aquiles.me/) and [Laurens Knoll](https://www.linkedin.com/in/laurensknoll/) provide very well-structured blogs/tutorials (IMO). What helped me the most are:
     - [Complete Guide to Imports in Python: Absolute, Relative, and More](https://pythonforthelab.com/blog/index2#:~:text=Complete%20Guide%20to%20Imports%20in%20Python%3A%20Absolute%2C%20Relative%2C%20and%20More)
     - [An Updated Guide to Setuptools and Pyproject.toml](https://xebia.com/blog/an-updated-guide-to-setuptools-and-pyproject-toml/)
     - You can check his other Python topics [here](https://pythonforthelab.com/blog/index2).
